@@ -26,3 +26,10 @@
 | Website             | [http://www.misparking.com](http://www.misparking.com)
 | GitHub              | [https://github.com/misparking](https://github.com/misparking)
 | Fackbook            | [http://facebook.com/misparkd](http://facebook.com/misparkd)
+
+### @fiskz
+
+| Information         | Link
+| ------------------- | -----------
+| Website             | [http://www.fiskz.com](http://www.fiskz.com)
+| GitHub              | [https://github.com/wfiskz](https://github.com/wfiskz)
