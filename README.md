@@ -36,3 +36,10 @@
 | ------------------- | -----------
 | Website             | [http://www.fiskz.com](http://www.fiskz.com)
 | GitHub              | [https://github.com/wfiskz](https://github.com/wfiskz)
+
+### @VincentWang
+
+| Information         | Link
+| ------------------- | -----------
+| GitHub              | [http://github.com/VincentWang92](http://github.com/VincentWang92)
+
