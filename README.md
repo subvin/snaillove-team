@@ -24,11 +24,14 @@
 
 ### @misparking
 
-| Information         | Link
-| ------------------- | -----------
-| Website             | [http://www.misparking.com](http://www.misparking.com)
-| GitHub              | [https://github.com/misparking](https://github.com/misparking)
-| Facebook            | [http://facebook.com/misparkd](http://facebook.com/misparkd)
+| Information       | Link
+| ------------------| -----------
+| Website           | [http://www.misparking.com](http://www.misparking.com)
+| GitHub            | [https://github.com/misparking](https://github.com/misparking)
+| Facebook          | [http://facebook.com/misparkd](http://facebook.com/misparkd)
+| StackOverflow     | [http://stackoverflow.com/users/5299868/misparking](http://stackoverflow.com/users/5299868/misparking)
+
+
 
 ### @fiskz
 
