@@ -8,6 +8,7 @@
 | Zhihu               | [http://www.zhihu.com/people/ifeegoo](http://www.zhihu.com/people/ifeegoo)
 | Twitter             | [http://twitter.com/ifeegoo](http://twitter.com/ifeegoo)
 | GitHub              | [http://github.com/ifeegoo](http://github.com/ifeegoo)
+|GitBook              | [https://www.gitbook.com/@ifeegoo](http://www.gitbook.com/@ifeegoo)
 | StackOverflow       | [http://stackoverflow.com/users/2531888/ifeegoo](http://stackoverflow.com/users/2531888/ifeegoo)
 | Facebook            | [http://facebook.com/ifeegoo](http://facebook.com/ifeegoo)
 | Pinterest           | [http://www.pinterest.com/ifeegoo/](http://www.pinterest.com/ifeegoo/)
