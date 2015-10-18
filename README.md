@@ -47,5 +47,8 @@
 
 | Information         | Link
 | ------------------- | -----------
-| GitHub              | [http://github.com/VincentWang92](http://github.com/VincentWang92)
-
+| Website             | [http://www.subvin.com](http://www.subvin.com)
+| GitHub              | [http://github.com/subvin](http://github.com/subvin)
+| Zhihu               | [http://www.zhihu.com/people/subvin](http://wwww.zhihu.com/people/subvin)
+| Medium              | [http://medium.com/@subvin](http://medium.com/@subvin)
+| GitBook             | [http://www.gitbook.com/@subvin](http://www.gitbook.com/@subvin)
