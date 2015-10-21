@@ -61,3 +61,10 @@
 | ------------------- | -----------
 | GitHub              | [https://github.com/CatchComing](https://github.com/CatchComing)
 | StackOverflow       | [http://stackoverflow.com/users/5470510/onesmile](http://stackoverflow.com/users/5470510/onesmile)
+
+### @JackWaiting
+
+| Information         | Link
+| ------------------- | -----------
+| GitHub              | [https://github.com/Jackwaiting](https://github.com/Jackwaiting)
+| StackOverflow       | [https://stackoverflow.com/users/5470345/jackwaiting](https://stackoverflow.com/users/5470345/jackwaiting)
