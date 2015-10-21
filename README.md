@@ -15,6 +15,7 @@
 | Medium              | [http://medium.com/@ifeegoo](https://medium.com/@ifeegoo)
 |Dribbble             | [http://dribbble.com/ifeegoo](http://dribbble.com/ifeegoo)
 | About Me            | [http://about.me/ifeegoo](http://about.me/ifeegoo)
+|Linkedin             |[https://www.linkedin.com/in/ifeegoo](https://www.linkedin.com/in/ifeegoo)
 
 ### @chiemy
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
