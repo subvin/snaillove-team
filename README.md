@@ -79,3 +79,12 @@
 | GitHub              | [https://github.com/TalentsCZY](https://github.com/TalentsCZY)
 | StackOverflow       | [http://stackoverflow.com/users/5470521/talents](http://stackoverflow.com/users/5470521/talents)
 | Zhihu               | [http://www.zhihu.com/people/virgodream](http://www.zhihu.com/people/virgodream)
+
+### @chenyunxuan
+
+| Information         | Link
+| ------------------- | -----------
+| GitHub              | [https://github.com/chenyunxuan](https://github.com/chenyunxuan)
+| StackOverflow       | [http://stackoverflow.com/users/5469727/chenyunxuan](http://stackoverflow.com/users/5469727/chenyunxuan)
+| Zhihu               | [http://www.zhihu.com/people/chen-yun-xuan-29](http://www.zhihu.com/people/chen-yun-xuan-29)
+| GitHub              | [http://github.com/chenyunxuan](http://github.com/chenyunxuan)
