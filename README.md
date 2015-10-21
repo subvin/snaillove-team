@@ -43,6 +43,7 @@
 | ------------------- | -----------
 | Website             | [http://www.fiskz.com](http://www.fiskz.com)
 | GitHub              | [https://github.com/wfiskz](https://github.com/wfiskz)
+| StackOverflow       | [http://stackoverflow.com/users/5469824/fiskz](http://stackoverflow.com/users/5469824/fiskz)
 
 ### @VincentWang
 
