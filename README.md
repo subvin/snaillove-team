@@ -21,9 +21,10 @@
 | Information         | Link
 | ------------------- | -----------
 | Website             | [http://www.chiemy.com](http://www.chiemy.com)
-| Twitter             | [http://twitter.com/chiemyluo](http://twitter.com/chiemyluo)
 | GitHub              | [http://github.com/chiemy](http://github.com/chiemy)
+| StackOverflow       | [http://stackoverflow.com/users/2744948/chiemy](http://stackoverflow.com/users/2744948/chiemy)
 | Facebook            | [http://facebook.com/chiemyluo](http://facebook.com/chiemyluo)
+| Twitter             | [http://twitter.com/chiemyluo](http://twitter.com/chiemyluo)
 
 ### @misparking
 
