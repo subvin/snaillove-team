@@ -47,6 +47,8 @@
 | GitHub              | [https://github.com/wfiskz](https://github.com/wfiskz)
 | StackOverflow       | [http://stackoverflow.com/users/5469824/fiskz](http://stackoverflow.com/users/5469824/fiskz)
 | Zhihu               | [http://www.zhihu.com/people/wfiskz](http://www.zhihu.com/people/wfiskz)
+| linkedin            | [https://www.linkedin.com/in/fiskz](https://www.linkedin.com/in/fiskz)
+
 
 ### @VincentWang
 
