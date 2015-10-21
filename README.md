@@ -17,11 +17,12 @@
 | About Me            | [http://about.me/ifeegoo](http://about.me/ifeegoo)
 
 ### @chiemy
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
 | Information         | Link
 | ------------------- | -----------
 | Website             | [http://www.chiemy.com](http://www.chiemy.com)
-| GitHub              | [http://github.com/chiemy](http://github.com/chiemy)
+| <i class="fa fa-github fa-2x"></i>GitHub              | [http://github.com/chiemy](http://github.com/chiemy)
 | StackOverflow       | [http://stackoverflow.com/users/2744948/chiemy](http://stackoverflow.com/users/2744948/chiemy)
 | Facebook            | [http://facebook.com/chiemyluo](http://facebook.com/chiemyluo)
 | Twitter             | [http://twitter.com/chiemyluo](http://twitter.com/chiemyluo)
