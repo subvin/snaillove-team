@@ -70,3 +70,11 @@
 | GitHub              | [https://github.com/Jackwaiting](https://github.com/Jackwaiting)
 | StackOverflow       | [https://stackoverflow.com/users/5470345/jackwaiting](https://stackoverflow.com/users/5470345/jackwaiting)
 | Zhihu               | [http://www.zhihu.com/people/zhang-gang-25-35](http://www.zhihu.com/people/zhang-gang-25-35)
+
+### @TalentsCZY
+
+| Information         | Link
+| ------------------- | -----------
+| GitHub              | [https://github.com/TalentsCZY](https://github.com/TalentsCZY)
+| StackOverflow       | [http://stackoverflow.com/users/5470521/talents](http://stackoverflow.com/users/5470521/talents)
+| Zhihu               | [http://www.zhihu.com/people/virgodream](http://www.zhihu.com/people/virgodream)
