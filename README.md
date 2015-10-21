@@ -1,27 +1,20 @@
 # SnailLove Team
 
+***
+
 #### We are active here.
 
 ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/github.png)  ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/stackoverflow.png)  ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/gitbook.png)  ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/facebook.png)  ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/twitter.png)  ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/dribbble.png)  ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/pinterest.png)  ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/medium.png)  ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/zhihu.png)  ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/aboutme.png)
 
 ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/linkedin.png)
 
+***
+
 ### @ifeegoo
 
-| Information         | Link
-| ------------------- | -----------
-| Website             | [http://www.ifeegoo.com](http://www.ifeegoo.com)
-| Zhihu               | [http://www.zhihu.com/people/ifeegoo](http://www.zhihu.com/people/ifeegoo)
-| Twitter             | [http://twitter.com/ifeegoo](http://twitter.com/ifeegoo)
-| GitHub              | [http://github.com/ifeegoo](http://github.com/ifeegoo)
-|GitBook              | [https://www.gitbook.com/@ifeegoo](http://www.gitbook.com/@ifeegoo)
-| StackOverflow       | [http://stackoverflow.com/users/2531888/ifeegoo](http://stackoverflow.com/users/2531888/ifeegoo)
-| Facebook            | [http://facebook.com/ifeegoo](http://facebook.com/ifeegoo)
-| Pinterest           | [http://www.pinterest.com/ifeegoo/](http://www.pinterest.com/ifeegoo/)
-| Medium              | [http://medium.com/@ifeegoo](https://medium.com/@ifeegoo)
-|Dribbble             | [http://dribbble.com/ifeegoo](http://dribbble.com/ifeegoo)
-| About Me            | [http://about.me/ifeegoo](http://about.me/ifeegoo)
-|Linkedin             |[https://www.linkedin.com/in/ifeegoo](https://www.linkedin.com/in/ifeegoo)
+![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/ifeegoo.png) 
+![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/github.png)  ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/stackoverflow.png)  ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/gitbook.png)  ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/facebook.png)  ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/twitter.png)  ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/dribbble.png)  ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/pinterest.png)  ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/medium.png)  ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/zhihu.png)  ![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/aboutme.png)
+![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/linkedin.png)
 
 ### @chiemy
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
