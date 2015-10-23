@@ -17,16 +17,10 @@
 [![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/linkedin.png)](http://www.linkedin.com/in/ifeegoo)
 
 ### @chiemy
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-<i class="fa fa-github fa-2x"></i>
-
-| Information         | Link
-| ------------------- | -----------
-| Website             | [http://www.chiemy.com](http://www.chiemy.com)
-| GitHub              | [http://github.com/chiemy](http://github.com/chiemy)
-| StackOverflow       | [http://stackoverflow.com/users/2744948/chiemy](http://stackoverflow.com/users/2744948/chiemy)
-| Facebook            | [http://facebook.com/chiemyluo](http://facebook.com/chiemyluo)
-| Twitter             | [http://twitter.com/chiemyluo](http://twitter.com/chiemyluo)
+####Blog:[http://www.chiemy.com](http://www.chiemy.com)
+[![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/github.png) ](http://github.com/chiemy)
+  [![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/stackoverflow.png)](http://stackoverflow.com/users/2744948/chiemy)  [![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/facebook.png)](http://facebook.com/chiemyluo)  [![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/twitter.png)](http://twitter.com/chiemyluo)
+  [![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/zhihu.png)](http://www.zhihu.com/people/chiemy)
 
 ### @misparking
 
