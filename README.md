@@ -45,7 +45,6 @@
 
 
 ### @VincentWang
-[![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/ifeegoo.png)](http://www.subvin.com)
 [![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/github.png) ](http://github.com/subvin)
   [![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/stackoverflow.png)](http://stackoverflow.com/users/5467900/subvin)  [![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/facebook.png)](http://facebook.com/subvim)  [![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/twitter.png)](http://twitter.com/subvin)
   [![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/zhihu.png)](http://www.zhihu.com/people/subvin)  [![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/medium.png)](http://medium.com/@subvin)  [![](https://raw.githubusercontent.com/SnailLove/snaillove-team/master/resources/logo/gitbook.png)](http://www.gitbook.com/@subvin)
